@@ -1,7 +1,7 @@
 {
-  "name": "wechaty-puppet-mock",
-  "version": "1.0.3",
-  "description": "Puppet Mocker for Wechaty",
+  "name": "wechaty-puppet-tiktok",
+  "version": "0.0.1",
+  "description": "Wechaty Puppet Mocker for TikTok",
   "directories": {
     "test": "tests"
   },
@@ -46,12 +46,12 @@
     "puppet",
     "mock"
   ],
-  "author": "Huan LI <zixia@zixia.net>",
+  "author": "NickWang <brotherstyx@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/wechaty/puppet-mock/issues"
+    "url": "https://github.com/juzibot/wechaty-puppet-tiktok/issues"
   },
-  "homepage": "https://github.com/wechaty/puppet-mock#readme",
+  "homepage": "https://github.com/juzibot/wechaty-puppet-tiktok#readme",
   "devDependencies": {
     "@chatie/eslint-config": "^1.0.4",
     "@chatie/git-scripts": "^0.6.2",
